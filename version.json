@@ -1,1 +1,7 @@
-
+{
+  "version": "7.0",
+  "url": "https://github.com/alzaubi/SmartSplit_DB8/releases/download/v7.0/SmartSplit.apk",
+  "notes": "SmartSplit 7.0 for Denza B8: 10 selectable gauge themes, live BYD speed/fuel/engine-temperature/battery-temperature data, compact cluster mouse pad, panel controls, and reduced APK size.",
+  "sha256": "605107C177090C8906D234C45C09E0761F3D6142185B50E7A60834481B11C495",
+  "size": 51353611
+}
